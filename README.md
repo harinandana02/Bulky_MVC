@@ -28,9 +28,9 @@
 
 Ensure you have the following installed:
 
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) or higher
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/)
-- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (Local DB or Express)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0) 
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) 
+- [MS SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
 - [Git](https://git-scm.com/)
 
 1. **Clone the repository**
@@ -79,6 +79,6 @@ Ensure you have the following installed:
 
    ## Screenshots
 
-| Home Page | Product Management | User Registration |
-|-----------|-------------------|------------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Register](screenshots/register.png) |
+| Product Management | User Registration |
+|-------------------|------------------|
+| ![Products](screenshots/products.png) | ![Register](screenshots/register.png) |
